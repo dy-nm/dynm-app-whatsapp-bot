@@ -32,5 +32,5 @@ npm run dev
 
 
 # API 
-- bot ini menggunakan api dari gemini ai base open api by google.
+- bot ini menggunakan api dari `gemini ai` base open api by google.
 
