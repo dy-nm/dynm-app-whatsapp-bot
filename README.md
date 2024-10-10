@@ -28,7 +28,7 @@ npm run dev
 # Notes
 - jangan lupa untuk mengisi gemini api key di file `.env` yang telah di buat sebelumnya.
 - jangan lupa juga melakukan `npm audit fix` agar semua dependensi bisa berjalan dengan baik.
-- jika di perlukan lakukan juga `npm update` agar dependensi yang terinsttal versi terbaru yang tersedia.
+- jika di perlukan lakukan juga `npm update` agar dependency yang terinstall terbaru yang tersedia.
 
 
 # API 
