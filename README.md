@@ -26,4 +26,4 @@ npm run dev
    - done bot akan login ulang dan di minta untuk memasukan qr code kembali
 
 # Notes
-jangan lupa untuk mengisi gemini api key pada file ***.env***
+jangan lupa untuk mengisi gemini api key pada file `.env`
