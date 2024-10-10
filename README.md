@@ -20,3 +20,7 @@ npm install
 ```
 npm run dev
 ```
+4. untuk menghapus session atau akun sebelumnya
+   - cari folder bernama session
+   - setelah itu hapus folder session
+   - done bot akan login ulang dan di minta untuk memasukan qr code kembali
