@@ -24,3 +24,6 @@ npm run dev
    - cari folder bernama session
    - setelah itu hapus folder session
    - done bot akan login ulang dan di minta untuk memasukan qr code kembali
+
+# notes
+jangan lupa untuk mengisi gemini api key pada file (.env)
