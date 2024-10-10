@@ -31,3 +31,6 @@ npm run dev
 - jika di perlukan lakukan juga `npm update` agar dependensi yang terinsttal versi terbaru yang tersedia.
 
 
+# API 
+- bot ini menggunakan api dari gemini ai base open api by google.
+
