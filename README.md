@@ -33,4 +33,5 @@ npm run dev
 
 # API 
 - bot ini menggunakan api dari `gemini ai` base open api by google.
+- bot ini juga mendukung api lain seperti `groq ai` base dari open api by groq ai.
 
